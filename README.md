@@ -1,6 +1,4 @@
-[![Build Status](https://www.travis-ci.com/qasimabdullah404/travis-docker-react-test.svg?branch=main)](https://www.travis-ci.com/qasimabdullah404/travis-docker-react-test)
-
-# Getting Started with Create React App
+# Getting Started with Create React App [![Build Status](https://www.travis-ci.com/qasimabdullah404/travis-docker-react-test.svg?branch=main)](https://www.travis-ci.com/qasimabdullah404/travis-docker-react-test)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
