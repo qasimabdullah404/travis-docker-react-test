@@ -7,4 +7,5 @@ before_install:
   - docker build -t qasim/myreactbuild -f Dockerfile.dev .
 
 script:
+  - echo Hello
   - docker run -e CI=true qasim/myreactbuild npm run test
